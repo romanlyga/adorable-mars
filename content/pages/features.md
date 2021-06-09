@@ -63,6 +63,12 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum

@@ -86,12 +86,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Features
   description: This is the features page
